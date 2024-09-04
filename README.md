@@ -18,7 +18,8 @@ You can see a live demo of the calculator [here](#). (Replace this link with you
 
 ## Screenshots
 
-![Calculator Screenshot](./screenshot.png) <!-- Replace with your own screenshot image -->
+![Screenshot (351)](https://github.com/user-attachments/assets/a67f92f9-8b33-4bed-bc3a-ffd3f5db48b6)
+
 
 ## Getting Started
 
